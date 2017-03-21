@@ -87,7 +87,7 @@
     <gap:plugin name="org.apache.cordova.splashscreen"  source="npm"/>
     <!--<gap:plugin name="com.phonegap.plugin.statusbar" />
 
-    <gap:plugin name="com.phonegap.plugins.pushplugin"  source="npm"/>-->
+    <gap:plugin name="com.phonegap.plugins.pushplugin"  source="npm"/>
     <gap:plugin name="net.tunts.webintent"  source="npm"/>
     <gap:plugin name="nl.x-services.plugins.launchmyapp"  source="npm">
         <param name="URL_SCHEME" value="moodlemobile" />
@@ -95,7 +95,7 @@
     <gap:plugin name="com.ionic.keyboard" version="1.0.3"  source="npm"/>
     <gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.5"  source="npm"/>
     <gap:plugin name="ch.ti8m.documenthandler" version="0.2.1"  source="npm"/>
-
+-->
     <gap:config-file platform="android" parent="/manifest">
          <application android:debuggable="false" />
     </gap:config-file>
